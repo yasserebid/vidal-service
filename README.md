@@ -9,10 +9,10 @@ Allergies Database
 Used as package within a framework.
 <br\>
 # packagist 
-https://packagist.org/packages/hagag/vidal-service
+https://packagist.org/packages/yasserebid/vidal-service
 
 # composer install 
 <p>"require": { 
-  "hagag/vidal-service": "*"
+  "yasserebid/vidal-service": "*"
 }</p>
-CLI : composer require hagag/vidal-service
+CLI : composer require yasserebid/vidal-service
